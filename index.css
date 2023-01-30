@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(95, 64, 29);
+}
+
+button{
+    color: white;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+#increment-btn{
+    background-color: green;
+}
+
+#reset-btn{
+    background-color: rgb(129, 33, 49);
+}
+
+#save-btn{
+    background-color: cornflowerblue;
+}
+
+#startover-btn{
+    background-color: cadetblue;
+    margin-left: 42%;
+}
+div{
+    background-color: rgb(242, 248, 253);
+    margin-top: 50px;
+    padding:50px;
+    border: 2px solid;
+    width:50%;
+    margin-left: 22%;
+}
+
+div .button-div{
+    border: none;
+    padding:10px;
+    margin: auto;
+    margin-left: 30%;
+}
